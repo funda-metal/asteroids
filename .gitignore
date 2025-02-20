@@ -1,3 +1,4 @@
 test.py
 venv/
 requirements.txt
+__pycache__/
